@@ -1,8 +1,0 @@
-README.md
-setup.py
-pug/__init__.py
-pug/core.py
-pug.egg-info/PKG-INFO
-pug.egg-info/SOURCES.txt
-pug.egg-info/dependency_links.txt
-pug.egg-info/top_level.txt
